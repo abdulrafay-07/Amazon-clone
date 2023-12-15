@@ -1,5 +1,3 @@
-// search select
-
 function removeFirstOption() {
     let firstOption = document.querySelector('#mySelect option:first-child');
     firstOption.style.display = 'none';
